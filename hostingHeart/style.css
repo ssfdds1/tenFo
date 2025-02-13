@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  background: #000;
+}
+.name{
+  margin-top: 50px;
+  margin-left: 41%;
+  color: aliceblue;
+}
+
+img {
+  display: none;
+}
+
+
+.dribbble {
+  position: fixed;
+  display: block;
+  right: 20px;
+  bottom: 20px;
+}
+.dribbble img {
+  display: block;
+  height: 28px;
+}
